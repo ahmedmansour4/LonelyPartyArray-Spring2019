@@ -1,0 +1,9 @@
+-> A new LonelyPartyArray has emerged from the void. (capacity: 36, fragments: 12)
+-> Spawned fragment 4. (capacity: 3, indices: 12..14)
+-> Spawned fragment 5. (capacity: 3, indices: 15..17)
+-> Deallocated fragment 5. (capacity: 3, indices: 15..17)
+-> Bloop! Invalid access in delete(). (index: 36, fragment: 12, offset: 0)
+-> Bloop! Invalid access in delete(). (index: 48, fragment: 16, offset: 0)
+-> Bloop! Invalid access in delete(). (index: 49, fragment: 16, offset: 1)
+-> Bloop! Invalid access in delete(). (index: 59, fragment: 19, offset: 2)
+-> The LonelyPartyArray has returned to the void.

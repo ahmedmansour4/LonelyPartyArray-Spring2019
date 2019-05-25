@@ -1,0 +1,14 @@
+-> A new LonelyPartyArray has emerged from the void. (capacity: 36, fragments: 12)
+-> Spawned fragment 4. (capacity: 3, indices: 12..14)
+-> Deallocated fragment 4. (capacity: 3, indices: 12..14)
+-> Spawned fragment 4. (capacity: 3, indices: 12..14)
+-> Deallocated fragment 4. (capacity: 3, indices: 12..14)
+-> Spawned fragment 4. (capacity: 3, indices: 12..14)
+-> Deallocated fragment 4. (capacity: 3, indices: 12..14)
+-> Spawned fragment 4. (capacity: 3, indices: 12..14)
+28
+56
+112
+224
+-> Deallocated fragment 4. (capacity: 3, indices: 12..14)
+-> The LonelyPartyArray has returned to the void.

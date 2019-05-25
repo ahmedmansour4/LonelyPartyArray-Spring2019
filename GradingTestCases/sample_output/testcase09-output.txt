@@ -1,0 +1,35 @@
+-> A new LonelyPartyArray has emerged from the void. (capacity: 36, fragments: 3)
+-> Spawned fragment 1. (capacity: 12, indices: 12..23)
+Size: 1
+Capacity: 36
+Allocated Cells: 12
+Traditional Array Size: 144 bytes
+Lonely Party Array Size: 124 bytes
+-> The LonelyPartyArray has returned to the void.
+-> A new LonelyPartyArray has emerged from the void. (capacity: 1009, fragments: 1)
+-> Spawned fragment 0. (capacity: 1009, indices: 0..1008)
+Size: 1
+Capacity: 1009
+Allocated Cells: 1009
+Traditional Array Size: 4036 bytes
+Lonely Party Array Size: 4088 bytes
+-> The LonelyPartyArray has returned to the void.
+-> A new LonelyPartyArray has emerged from the void. (capacity: 1009, fragments: 1009)
+-> Spawned fragment 14. (capacity: 1, indices: 14..14)
+Size: 1
+Capacity: 1009
+Allocated Cells: 1
+Traditional Array Size: 4036 bytes
+Lonely Party Array Size: 12152 bytes
+-> The LonelyPartyArray has returned to the void.
+-> A new LonelyPartyArray has emerged from the void. (capacity: 110, fragments: 11)
+-> Spawned fragment 3. (capacity: 10, indices: 30..39)
+-> Spawned fragment 8. (capacity: 10, indices: 80..89)
+-> Spawned fragment 9. (capacity: 10, indices: 90..99)
+-> Spawned fragment 10. (capacity: 10, indices: 100..109)
+Size: 6
+Capacity: 110
+Allocated Cells: 40
+Traditional Array Size: 440 bytes
+Lonely Party Array Size: 332 bytes
+-> The LonelyPartyArray has returned to the void.
